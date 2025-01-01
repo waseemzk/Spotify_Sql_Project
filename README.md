@@ -1,1 +1,1 @@
-# Spotify_Sql_Project
+# Spotify SQL Project and Query Optimization
