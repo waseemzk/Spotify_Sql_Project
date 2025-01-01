@@ -1,4 +1,5 @@
 # Spotify SQL Project and Query Optimization
+[Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 ![Spotify Logo](https://github.com/waseemzk/Spotify_Sql_Project/blob/main/Generic-FTR-headers_V10.jpg)
 
